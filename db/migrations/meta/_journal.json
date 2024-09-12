@@ -15,6 +15,20 @@
       "when": 1725909163623,
       "tag": "0001_bizarre_hairball",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1726075456090,
+      "tag": "0002_mixed_shard",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1726075626354,
+      "tag": "0003_rich_the_executioner",
+      "breakpoints": true
     }
   ]
 }
